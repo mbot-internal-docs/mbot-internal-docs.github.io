@@ -1,0 +1,49 @@
+title: MBot Internal Docs Template
+description: Mbot ecosystem documentation
+theme: just-the-docs
+
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+
+logo: "/assets/media/robotics-logo.svg"
+favicon_ico: "/assets/media/mbot-logo.png"
+math: katex
+url: ""
+baseurl: "" 
+enable_copy_code_button: false
+
+# Aux links for the upper right navigation
+aux_links: 
+  GitHub Repository: https://github.com/mbot-internal-docs/mbot-internal-docs-template
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    title: Highlight
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+  sanity_check:
+    title: Sanity Check
+    color: brown
+  required_for_report:
+    title: Required For the Report
+    color: cyan
+    opacity: 0.05
