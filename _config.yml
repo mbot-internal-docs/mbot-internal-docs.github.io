@@ -1,4 +1,4 @@
-title: MBot Internal Docs Template
+title: MBot Internal Docs
 description: Mbot ecosystem documentation
 theme: just-the-docs
 
@@ -12,13 +12,13 @@ defaults:
 logo: "/assets/media/robotics-logo.svg"
 favicon_ico: "/assets/media/mbot-logo.png"
 math: katex
-url: ""
+url: "https://mbot-internal-docs.github.io/"
 baseurl: "" 
 enable_copy_code_button: false
 
 # Aux links for the upper right navigation
 aux_links: 
-  GitHub Repository: https://github.com/mbot-internal-docs/mbot-internal-docs-template
+  GitHub Repository: https://github.com/mbot-internal-docs/mbot-internal-docs.github.io
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
 
