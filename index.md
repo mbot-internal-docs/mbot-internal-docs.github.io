@@ -6,13 +6,18 @@ nav_order: 1
 
 # MBot Internal Docs
 
+| Mbot Classic | Mbot OMNI|
+| --- | --- |
+| ![](/assets/media/classic.jpg)|![](/assets/media/omni.jpg) |
+
 ## Hardware
 The website contains all hardware-related information, including:
 - Assembly guide
 - PCB design
-- 3D print models
+- 3D print parts
+- Laser cut parts
 
-Visit the [Hardware  Guide](/docs/hardware/index) for details.
+Visit the side bar Hardware Guides for details.
 
 ## Software
 

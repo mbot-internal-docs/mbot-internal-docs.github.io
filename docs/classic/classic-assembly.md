@@ -1,5 +1,5 @@
 ---
 title: Assembly Guide
 nav_order: 1
-parent: Omni
+parent: MBot Classic Hardware
 ---
