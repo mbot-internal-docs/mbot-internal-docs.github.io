@@ -8,20 +8,19 @@ nav_order: 1
 
 | Mbot Classic | Mbot OMNI|
 | --- | --- |
-| ![](/assets/media/classic.jpg)|![](/assets/media/omni.jpg) |
+|<a class="image-link" href="{{ site.baseurl }}/assets/media/classic.jpg"><img src="{{ site.baseurl }}/assets/media/classic.jpg" alt="Image Description" width="200" style="display: block; margin: auto;"></a>|<a class="image-link" href="{{ site.baseurl }}/assets/media/omni.jpg"><img src="{{ site.baseurl }}/assets/media/omni.jpg" alt="Image Description" width="350" style="display: block; margin: auto;"></a>|
 
-## Hardware
+
+This is mbot ecosystem internal doc website.
+
 The website contains all hardware-related information, including:
 - Assembly guide
 - PCB design
 - 3D print parts
 - Laser cut parts
 
-Visit the side bar Hardware Guides for details.
 
-## Software
-
-If you're looking for software guides related to course materials, find your class number in the left sidebar.
-
-## Docs Development
-If you're a documentation maintainer, check the [template website](https://mbot-internal-docs.github.io/mbot-internal-docs-template/docs/getting-started.html) for more details.
+The website contains all software-related information, including:
+- Course specific system setup guide
+- OS Image
+- MBot codebase review

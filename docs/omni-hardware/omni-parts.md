@@ -1,5 +1,5 @@
 ---
-title: OMNI Parts
+title: Omni Parts
 nav_order: 2
 parent: MBot Omni Hardware
 ---
