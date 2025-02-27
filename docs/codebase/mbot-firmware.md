@@ -1,7 +1,7 @@
 ---
 title: MBot Firmware
-nav_order: 1
-parent: Codebase
+nav_order: 2
+parent: MBot Codebase
 ---
 
 mbot calibration

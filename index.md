@@ -11,16 +11,19 @@ nav_order: 1
 |<a class="image-link" href="{{ site.baseurl }}/assets/media/classic.jpg"><img src="{{ site.baseurl }}/assets/media/classic.jpg" alt="Image Description" width="200" style="display: block; margin: auto;"></a>|<a class="image-link" href="{{ site.baseurl }}/assets/media/omni.jpg"><img src="{{ site.baseurl }}/assets/media/omni.jpg" alt="Image Description" width="350" style="display: block; margin: auto;"></a>|
 
 
-This is mbot ecosystem internal doc website.
-
 The website contains all hardware-related information, including:
-- Assembly guide
-- PCB design
-- 3D print parts
-- Laser cut parts
-
+- [MBot Classic Assembly guide](/docs/hardware/classic-assembly/)
+- [MBot Omni Assembly guide](/docs/hardware/omni-assembly/)
+- [MBot Parts](/docs/hardware/mbot-parts)
+  - Control Board Specs
+  - PCB design
+  - 3D print parts
+  - Laser cut parts
+- [Archived MBot models](/docs/hardware/archived-models/)
 
 The website contains all software-related information, including:
-- Course specific system setup guide
-- OS Image
-- MBot codebase review
+- [OS Image](/docs/os-image/)
+- [MBot codebase](/docs/codebase/)
+
+Additional content, including:
+- Available modules such as: apriltag detection, object detection

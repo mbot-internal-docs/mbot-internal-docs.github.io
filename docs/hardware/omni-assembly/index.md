@@ -1,7 +1,7 @@
 ---
 title: Omni Assembly
-nav_order: 1
-parent: MBot Omni Hardware
+nav_order: 2
+parent: MBot Hardware
 ---
 
 # Omni Assembly
