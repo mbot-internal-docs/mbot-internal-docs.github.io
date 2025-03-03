@@ -27,3 +27,5 @@ The website contains all software-related information, including:
 
 Additional content, including:
 - Available modules such as: apriltag detection, object detection
+
+If you want to create your course website in this layout, check out the [template guide]((https://mbot-internal-docs.github.io/mbot-internal-docs-template/docs/getting-started.html)).
